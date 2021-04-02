@@ -1,6 +1,6 @@
 # Web-Dashboard
 
-![image](/images/Dashboard.png)
+![image](/images/Dashboard.PNG)
 
 ### Description
 This web dashboard and utilizes Plotly Dash and PyMongo to interact with a MongoDB database containing information about shelter animals in the Austin Texas area. The Dashboard incorporates a table, a map, a graph, and dropdown menus. The menus execute different MongoDB queries depending on what is selected and return the corresponding animal data. The animal data is then displayed in the table with the locations of each animal plotted on the map.
