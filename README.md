@@ -1,7 +1,7 @@
 # Web-Dashboard
 
 <p align="center"> 
-     <a href="https://youtu.be/5cTEe0gEOYY">Video</a>
+     <a href="https://youtu.be/5cTEe0gEOYY">Demonstration Video</a>
 </a></p>
 <p align="center"> <a href="https://youtu.be/5cTEe0gEOYY">
      <img src="/images/Dashboard.png" alt="alt text" width="640px">
